@@ -2,7 +2,7 @@
 
 This is a reproduction of https://github.com/sveltejs/svelte/issues/17771.
 
-# How to run
+# How to reproduce the bug
 
 The makefile contains 3 scripts which you should be able to use to debug the issue.
 
