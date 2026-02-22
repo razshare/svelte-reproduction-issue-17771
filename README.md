@@ -13,7 +13,7 @@ The makefile contains 3 scripts which you should be able to use to debug the iss
 In order to reproduce the bug switch to `v5.53.2`
 
 ```sh
-make make switch-to-5.53.2
+make switch-to-5.53.2
 ```
 
 then build the project
